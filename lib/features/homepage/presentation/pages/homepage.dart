@@ -1,7 +1,6 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:provider/provider.dart';
 import 'package:zrr_task/core/constants/locale_keys.dart';
 import 'package:zrr_task/features/custom_widgets/custom_button.dart';
